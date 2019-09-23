@@ -1,4 +1,4 @@
-#Pinterest+ OAuth 2.0 + PHP  
+# Pinterest+ OAuth 2.0 + PHP  
 PHP login app which consumes the OAuth Authorization Server and the OAuth Resource Server.
 
 # Requirements
